@@ -1,6 +1,6 @@
 # The Wealth & Health of Nations
 
-https://observablehq.com/@jackli/the-wealth-health-of-nations@181
+http://yunus.hacettepe.edu.tr/~zeynepbahcebasi/milletlerinzenginligivesagl%c4%b1k/
 
 View this notebook in your browser by running a web server in this folder. For
 example:
