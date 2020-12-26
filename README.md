@@ -1,0 +1,1 @@
+# veri-gorsellestirme-calismam
