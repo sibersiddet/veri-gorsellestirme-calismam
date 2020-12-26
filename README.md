@@ -9,13 +9,10 @@ example:
 python -m SimpleHTTPServer
 ~~~
 
-Or, use the [Observable Runtime](https://github.com/observablehq/runtime) to
+Or, use the [Observable Runtime](https://github.com/sibersiddet/veri-gorsellestirme-calismam) to
 import this module directly into your application. To npm install:
 
-~~~sh
-npm install @observablehq/runtime@4
-npm install https://api.observablehq.com/@jackli/the-wealth-health-of-nations.tgz?v=3
-~~~
+
 
 Then, import your notebook and the runtime as:
 
